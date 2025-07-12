@@ -40,10 +40,10 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/RajMeena01/twitter-clone.git
+   git clone https://github.com/raj-meenaa/QuickTweet
 2. **Navigate to the Project Directory:**
     ```bash
-   cd twitter-clone
+   cd QuickTweet
 3. **Install Backend Dependencies:**
     ```bash
    cd backend
